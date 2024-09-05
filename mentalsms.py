@@ -17,7 +17,7 @@ while 1:
     print("""{} 
     M E N T A L I T E
           
-    Sms: {}           {}by {}bu script fridayonline tarafından yapılmıştır.\n  
+    Sms: {}           {}bu script mentalitexd tarafından yapılmıştır.\n  
     """.format(Fore.LIGHTCYAN_EX, len(servisler_sms), Style.RESET_ALL, Fore.LIGHTRED_EX))
     try:
         menu = (input(Fore.LIGHTMAGENTA_EX + " 1- SMS Gönder (Normal)\n\n 2- SMS Gönder (Turbo)\n\n 3- Çıkış\n\n" + Fore.LIGHTYELLOW_EX + " Seçim: "))
