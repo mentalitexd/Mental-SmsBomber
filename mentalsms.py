@@ -15,7 +15,7 @@ for attribute in dir(SendSms):
 while 1:
     system("cls||clear")
     print("""{} 
-    F R I D A Y / A L İ Ş İ M   
+    M E N T A L I T E
           
     Sms: {}           {}by {}bu script fridayonline tarafından yapılmıştır.\n  
     """.format(Fore.LIGHTCYAN_EX, len(servisler_sms), Style.RESET_ALL, Fore.LIGHTRED_EX))
