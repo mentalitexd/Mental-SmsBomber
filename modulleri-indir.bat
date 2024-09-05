@@ -1,3 +1,3 @@
 @echo off
-pip instal colorama
+pip install colorama
 pip install requests
